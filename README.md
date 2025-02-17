@@ -10,7 +10,7 @@ I am an experienced GRC Professional with a strong background in risk management
 <h2>👨‍💻 GRC Projects:</h2>
 
   - [IT Governance Assessment](https://github.com/RosemaryAdebanwi/IT-Governance-Assessment)
-  - [Implementation of IT Risk Management Practices in a Healthcare Organization](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Implementation of IT Risk Management Practices in a Healthcare Organization](https://github.com/RosemaryAdebanwi/Implementation-of-IT-Risk-Management-Practices-For-A-Healthcare-Organization)
   - [Incident Mangement Optimization in a Manufacturing Company](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Compliance Audit For A Manufacturing Company](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Data Breach Risk Assessment For A Payment Card Company](https://github.com/joshmadakor1/Algorithms-Practice)
