@@ -1,28 +1,54 @@
 <h1>Hi, I'm Rosemary! </h1>
 
+<a href="https://linkedin.com/in/rosemaryadebanwi"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+I am an experienced GRC Professional with a strong background in risk management, compliance, and governance across diverse industries. Also proficient in using technology to enhance governance, streamline compliance, mitigate risks, and ensure operational resilience.
+
+
+
+
 <h2>👨‍💻 GRC Projects:</h2>
 
   - [IT Governance Assessment](https://github.com/RosemaryAdebanwi/IT-Governance-Assessment)
-  - [IT Governance Assessment Project for a Financial Institution using COBIT Framework](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Implementation of IT Risk Management Practices in a Healthcare Organization](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Incident Mangement Optimization in a Manufacturing Company](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Compliance Audit For A Manufacturing Company](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Data Breach Risk Assessment For A Payment Card Company](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Evaluating Specific GRC Needs and Selecting a Suitable Platform for A FinTech Company](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Evaluating Specific GRC Needs and Selecting a Suitable Platform for A Manufacturing Company](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Evaluating Specific GRC Needs and Selecting a Suitable Platform for An E-Commerce Company](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Evaluating Specific GRC Needs and Selecting a Suitable Platform for An IT Company](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Evaluating Specific GRC Needs and Selecting a Suitable Platform for An IT Solutions Provider](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Internal Control Audit for A Retail Chain Company](https://github.com/joshmadakor1/Algorithms-Practice)
  
 
+## Tools:
+- GRC
+
+<div> 
+<img src="https://img.shields.io/badge/-RSA_Archer-00558C?&style=for-the-badge&logo=RSA&logoColor=white" /> <img src="https://img.shields.io/badge/-ServiceNow-4B0082?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
   
+</div>
+
+ <div>
+   
+- Vulnerability Management
+  
+<img src="https://img.shields.io/badge/-Qualys-DC143C?&style=for-the-badge&logo=Qualys&logoColor=white" /> <img src="https://img.shields.io/badge/-Nessus-000000?&style=for-the-badge&logo=Nessus&logoColor=white" />
+
+
+
 <h2>Certifications</h2>
 
-- [ISO/IEC 27001 – Dynamics of Information Security Management System (ISMS)](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
-
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img src="https://img.shields.io/badge/-ISO%2FIEC_27001_(ISMS)-00558C?&style=for-the-badge&logo=Alison&logoColor=white" />
 
 
 
-[linkedin]: https://linkedin.com/in/rosemaryadebanwi
+
+
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
