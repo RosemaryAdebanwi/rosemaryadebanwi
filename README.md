@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 GRC Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [IT Governance Assessment](https://github.com/RosemaryAdebanwi/IT-Governance-Assessment)
   - [IT Governance Assessment Project for a Financial Institution using COBIT Framework](https://github.com/joshmadakor1/Algorithms-Practice)
  
 
