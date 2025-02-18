@@ -21,7 +21,7 @@ I am an experienced GRC Professional with a strong background in risk management
   - [Evaluating Specific GRC Needs and Selecting a Suitable Platform for An IT Company](https://github.com/RosemaryAdebanwi/Evaluating-Specific-GRC-Needs-and-Selecting-A-Suitable-Platform-For-An-IT-Company)
   - [Evaluating Specific GRC Needs and Selecting a Suitable Platform for An IT Solutions Provider](https://github.com/RosemaryAdebanwi/Evaluating-Specific-GRC-Needs-and-Selecting-A-Suitable-Platform-For-An-IT-Solutions-Provider)
   - [Internal Control Audit for A Retail Chain Company](https://github.com/RosemaryAdebanwi/Internal-Control-Audit-For-A-Retail-Chain-Company)
-  - [Risk Assessment For A Medium-Sized E-Commerce Company](https://github.com/RosemaryAdebanwi/Internal-Control-Audit-For-A-Retail-Chain-Company)
+  - [Risk Assessment For A Medium-Sized E-Commerce Company](https://github.com/RosemaryAdebanwi/Risk-Assessment-For-A-Medium-Sized-E-Commerce-Company)
   - [Information Security Policy Development For A Financial Institution](https://github.com/RosemaryAdebanwi/Internal-Control-Audit-For-A-Retail-Chain-Company)
   - [Internal Audit Plan For ISO 27001 Implementation In A Healthcare Organization](https://github.com/RosemaryAdebanwi/Internal-Control-Audit-For-A-Retail-Chain-Company)
   - [Implementation of NIST Cybersecurity Framework for a Small Software Development](https://github.com/RosemaryAdebanwi/Internal-Control-Audit-For-A-Retail-Chain-Company)
