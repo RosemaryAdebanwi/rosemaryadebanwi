@@ -14,7 +14,7 @@ I am an experienced GRC Professional with a strong background in risk management
   - [Incident Mangement Optimization in a Manufacturing Company](https://github.com/RosemaryAdebanwi/Incident-Management-Optimization-in-A-Manufacturing-Company)
   - [Compliance Audit For A Manufacturing Company](https://github.com/RosemaryAdebanwi/Compliance-Audit-For-A-Manufacturing-Company)
   - [Data Breach Risk Assessment For A Payment Card Company](https://github.com/RosemaryAdebanwi/Data-Breach-Risk-Assessment-For-A-Payment-Card-Company)
-  - [Evaluating Specific GRC Needs and Selecting a Suitable Platform for A FinTech Company](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Evaluating Specific GRC Needs and Selecting a Suitable Platform for A FinTech Company](https://github.com/RosemaryAdebanwi/Evaluating-Specific-GRC-Needs-and-Selecting-A-Suitable-Platform-For-A-FinTech-Company)
   - [Evaluating Specific GRC Needs and Selecting a Suitable Platform for A Manufacturing Company](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Evaluating Specific GRC Needs and Selecting a Suitable Platform for An E-Commerce Company](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Evaluating Specific GRC Needs and Selecting a Suitable Platform for An IT Company](https://github.com/joshmadakor1/Algorithms-Practice)
