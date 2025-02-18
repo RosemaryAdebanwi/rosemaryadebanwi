@@ -9,6 +9,7 @@ I am an experienced GRC Professional with a strong background in risk management
 
 <h2>👨‍💻 GRC Projects:</h2>
 
+
   - [IT Governance Assessment](https://github.com/RosemaryAdebanwi/IT-Governance-Assessment)
   - [Implementation of IT Risk Management Practices in a Healthcare Organization](https://github.com/RosemaryAdebanwi/Implementation-of-IT-Risk-Management-Practices-For-A-Healthcare-Organization)
   - [Incident Mangement Optimization in a Manufacturing Company](https://github.com/RosemaryAdebanwi/Incident-Management-Optimization-in-A-Manufacturing-Company)
@@ -19,7 +20,16 @@ I am an experienced GRC Professional with a strong background in risk management
   - [Evaluating Specific GRC Needs and Selecting a Suitable Platform for An E-Commerce Company](https://github.com/RosemaryAdebanwi/Evaluating-Specific-GRC-Needs-and-Selecting-A-Suitable-Platform-For-An-E-Commerce-Company)
   - [Evaluating Specific GRC Needs and Selecting a Suitable Platform for An IT Company](https://github.com/RosemaryAdebanwi/Evaluating-Specific-GRC-Needs-and-Selecting-A-Suitable-Platform-For-An-IT-Company)
   - [Evaluating Specific GRC Needs and Selecting a Suitable Platform for An IT Solutions Provider](https://github.com/RosemaryAdebanwi/Evaluating-Specific-GRC-Needs-and-Selecting-A-Suitable-Platform-For-An-IT-Solutions-Provider)
-  - [Internal Control Audit for A Retail Chain Company](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Internal Control Audit for A Retail Chain Company](https://github.com/RosemaryAdebanwi/Internal-Control-Audit-For-A-Retail-Chain-Company)
+  - [Risk Assessment For A Medium-Sized E-Commerce Company](https://github.com/RosemaryAdebanwi/Internal-Control-Audit-For-A-Retail-Chain-Company)
+  - [Information Security Policy Development For A Financial Institution](https://github.com/RosemaryAdebanwi/Internal-Control-Audit-For-A-Retail-Chain-Company)
+  - [Internal Audit Plan For ISO 27001 Implementation In A Healthcare Organization](https://github.com/RosemaryAdebanwi/Internal-Control-Audit-For-A-Retail-Chain-Company)
+  - [Implementation of NIST Cybersecurity Framework for a Small Software Development](https://github.com/RosemaryAdebanwi/Internal-Control-Audit-For-A-Retail-Chain-Company)
+  - [Incidence Response For A Mid-Sized Financial Institution Using NIST Framework](https://github.com/RosemaryAdebanwi/Internal-Control-Audit-For-A-Retail-Chain-Company)
+  - [Cybersecurity Enhancement For A Global Supply Chain Using the NIST Framework](https://github.com/RosemaryAdebanwi/Internal-Control-Audit-For-A-Retail-Chain-Company)
+  - [PCI DSS Compliance Assessment For A Mid-Sized E-Commerce Company](https://github.com/RosemaryAdebanwi/Internal-Control-Audit-For-A-Retail-Chain-Company)
+  - [Tabletop Exercise Plan For Payment Card Data Breach In A Retail Chain](https://github.com/RosemaryAdebanwi/Internal-Control-Audit-For-A-Retail-Chain-Company)
+  - [Integration of PCI DSS Requirements Into A Software Development Company](https://github.com/RosemaryAdebanwi/Internal-Control-Audit-For-A-Retail-Chain-Company)
  
 
 ## Tools:
