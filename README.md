@@ -4,7 +4,7 @@
 
 🔍 **Expertise:**  **IT Governance | Risk Management | Compliance | Cybersecurity | Vulnerability Management**
 
-I am an experienced GRC Professional with a strong background in risk management, compliance, and governance across diverse industries. Also proficient in using technology to enhance governance, streamline compliance, mitigate risks, and ensure operational resilience.
+I am an experienced GRC professional with a strong background in risk management, compliance, and governance across diverse industries. Proficient in leveraging technology to enhance governance, streamline compliance, and ensure operational resilience, I also have expertise in vulnerability management - assessing, prioritizing, and mitigating security risks to strengthen organizational defenses against cyber threats.
 
 <h2>Objective:</h2>
 
