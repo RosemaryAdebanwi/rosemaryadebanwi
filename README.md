@@ -36,7 +36,7 @@ I am an experienced GRC Professional with a strong background in risk management
   - [Selecting the Right GRC Tools For A Bank](https://github.com/RosemaryAdebanwi/Selecting-the-Right-GRC-Tools-For-A-Bank)
   - [Selecting the Right GRC Tools For A Healthcare Company](https://github.com/RosemaryAdebanwi/Selecting-the-Right-GRC-Tools-For-A-Healthcare-Company)
   - [Selecting the Right GRC Tools For A Manufacturing Company](https://github.com/RosemaryAdebanwi/Selecting-the-Right-GRC-Tools-For-A-Manufacturing-Company)
-  - [Selecting the Right GRC Tools For A Tech Company](https://github.com/RosemaryAdebanwi/PCI-DSS-Compliance-Assessment-For-A-Mid-Sized-E-Commerce-Company)
+  - [Selecting the Right GRC Tools For A Tech Company](https://github.com/RosemaryAdebanwi/Selecting-the-Right-GRC-Tools-For-A-Tech-Company)
  
 
 ## Tools:
