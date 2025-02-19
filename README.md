@@ -66,7 +66,7 @@ With a strong background in governance, risk, and compliance (GRC), I am committ
 
 <h2>⚠️ Disclaimer:</h2>
 
-I strictly adhere to professional confidentiality standards and security policies, I avoid listing company names in my repositories. Many organizations have strict agreements that prevent public disclosure of client details. Instead, I focus on showcasing the scope, objectives, and outcomes of my projects, highlighting the skills and expertise applied. This ensures compliance with privacy standards while demonstrating the value I bring to each project in a professional and ethical manner.
+**I strictly adhere to professional confidentiality standards and security policies, I avoid listing company names in my repositories. Many organizations have strict agreements that prevent public disclosure of client details. Instead, I focus on showcasing the scope, objectives, and outcomes of my projects, highlighting the skills and expertise applied. This ensures compliance with privacy standards while demonstrating the value I bring to each project in a professional and ethical manner.**
 
 *🚀Feel free to explore my repositories, contribute, or reach out for collaboration! 🚀*
 
