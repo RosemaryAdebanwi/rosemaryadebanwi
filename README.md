@@ -2,10 +2,15 @@
 
 <a href="https://linkedin.com/in/rosemaryadebanwi"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+🔍 **Expertise:**  **IT Governance | Risk Management | Compliance | Cybersecurity | Vulnerability Management**
+
 I am an experienced GRC Professional with a strong background in risk management, compliance, and governance across diverse industries. Also proficient in using technology to enhance governance, streamline compliance, mitigate risks, and ensure operational resilience.
 
+<h2>Objective:</h2>
 
+With a strong background in governance, risk, and compliance (GRC), I am committed to enhancing risk management strategies and strengthening cybersecurity governance. My goal specifically is to drive compliance initiatives, improve internal controls, and support organizations in navigating complex regulatory landscapes while mitigating emerging risks.
 
+📜 **Frameworks:** **COBIT | NIST | ISO 27001 | GDPR | HIPAA | SOX | PCI DSS**
 
 <h2>👨‍💻 GRC Projects:</h2>
 
@@ -55,14 +60,15 @@ I am an experienced GRC Professional with a strong background in risk management
 
 
 
-<h2>Certifications</h2>
+<h2>Certifications:</h2>
 
 <img src="https://img.shields.io/badge/-ISO%2FIEC_27001_(ISMS)-00558C?&style=for-the-badge&logo=Alison&logoColor=white" />
 
+<h2>⚠️ Disclaimer:</h2>
 
+I strictly adhere to professional confidentiality standards and security policies, I avoid listing company names in my repositories. Many organizations have strict agreements that prevent public disclosure of client details. Instead, I focus on showcasing the scope, objectives, and outcomes of my projects, highlighting the skills and expertise applied. This ensures compliance with privacy standards while demonstrating the value I bring to each project in a professional and ethical manner.
 
-
-
+*🚀Feel free to explore my repositories, contribute, or reach out for collaboration! 🚀*
 
 <!--
 
