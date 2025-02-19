@@ -34,7 +34,7 @@ I am an experienced GRC Professional with a strong background in risk management
   - [Risk Assessment For New Online Banking Platform in A Financial Institution](https://github.com/RosemaryAdebanwi/Risk-Assessment-For-New-Online-Banking-Platform-in-A-Financial-Institution)
   - [Risk Assessment For Regulatory Changes in A Financial Services Firm](https://github.com/RosemaryAdebanwi/Risk-Assessment-For-Regulatory-Changes-in-A-Financial-Services-Firm)
   - [Selecting the Right GRC Tools For A Bank](https://github.com/RosemaryAdebanwi/Selecting-the-Right-GRC-Tools-For-A-Bank)
-  - [Selecting the Right GRC Tools For A Healthcare Company](https://github.com/RosemaryAdebanwi/PCI-DSS-Compliance-Assessment-For-A-Mid-Sized-E-Commerce-Company)
+  - [Selecting the Right GRC Tools For A Healthcare Company](https://github.com/RosemaryAdebanwi/Selecting-the-Right-GRC-Tools-For-A-Healthcare-Company)
   - [Selecting the Right GRC Tools For A Manufacturing Company](https://github.com/RosemaryAdebanwi/PCI-DSS-Compliance-Assessment-For-A-Mid-Sized-E-Commerce-Company)
   - [Selecting the Right GRC Tools For A Tech Company](https://github.com/RosemaryAdebanwi/PCI-DSS-Compliance-Assessment-For-A-Mid-Sized-E-Commerce-Company)
  
