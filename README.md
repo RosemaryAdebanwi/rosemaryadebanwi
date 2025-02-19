@@ -28,8 +28,8 @@ I am an experienced GRC Professional with a strong background in risk management
   - [Incidence Response For A Mid-Sized Financial Institution Using NIST Framework](https://github.com/RosemaryAdebanwi/Incidence-Response-For-A-Mid-Sized-Financial-Institution-Using-NIST-Framework)
   - [Cybersecurity Enhancement For A Global Supply Chain Using the NIST Framework](https://github.com/RosemaryAdebanwi/Cybersecurity-Enhancement-For-A-Global-Supply-Chain-Using-the-NIST-Framework)
   - [PCI-DSS Compliance Assessment For A Mid-Sized E-Commerce Company](https://github.com/RosemaryAdebanwi/PCI-DSS-Compliance-Assessment-For-A-Mid-Sized-E-Commerce-Company)
-  - [Tabletop Exercise Plan For Payment Card Data Breach In A Retail Chain](https://github.com/RosemaryAdebanwi/Internal-Control-Audit-For-A-Retail-Chain-Company)
-  - [Integration of PCI DSS Requirements Into A Software Development Company](https://github.com/RosemaryAdebanwi/Internal-Control-Audit-For-A-Retail-Chain-Company)
+  - [Tabletop Exercise Plan For Payment Card Data Breach In A Retail Chain](https://github.com/RosemaryAdebanwi/Tabletop-Exercise-Plan-For-Payment-Card-Breach-In-A-Retail-Chain)
+  - [Integration of PCI-DSS Requirements Into A Software Development Company](https://github.com/RosemaryAdebanwi/Internal-Control-Audit-For-A-Retail-Chain-Company)
  
 
 ## Tools:
