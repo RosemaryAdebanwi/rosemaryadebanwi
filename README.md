@@ -31,7 +31,7 @@ I am an experienced GRC Professional with a strong background in risk management
   - [Tabletop Exercise Plan For Payment Card Data Breach In A Retail Chain](https://github.com/RosemaryAdebanwi/Tabletop-Exercise-Plan-For-Payment-Card-Breach-In-A-Retail-Chain)
   - [Integration of PCI-DSS Requirements Into A Software Development Company](https://github.com/RosemaryAdebanwi/Integration-of-PCI-DSS-Requirements-into-A-Software-Development-Company)
   - [Risk Assessment For A Data Breach in A Multinational Retail Corporation](https://github.com/RosemaryAdebanwi/Risk-Assessment-For-A-Data-Breach-in-A-Multinational-Retail-Corporation)
-  - [Risk Assessment For New Online Banking Platform in A Financial Institution](https://github.com/RosemaryAdebanwi/PCI-DSS-Compliance-Assessment-For-A-Mid-Sized-E-Commerce-Company)
+  - [Risk Assessment For New Online Banking Platform in A Financial Institution](https://github.com/RosemaryAdebanwi/Risk-Assessment-For-New-Online-Banking-Platform-in-A-Financial-Institution)
   - [Risk Assessment For Regulatory Changes in A Financial Services Firm](https://github.com/RosemaryAdebanwi/PCI-DSS-Compliance-Assessment-For-A-Mid-Sized-E-Commerce-Company)
   - [Selecting the Right GRC Tools For A Bank](https://github.com/RosemaryAdebanwi/PCI-DSS-Compliance-Assessment-For-A-Mid-Sized-E-Commerce-Company)
   - [Selecting the Right GRC Tools For A Healthcare Company](https://github.com/RosemaryAdebanwi/PCI-DSS-Compliance-Assessment-For-A-Mid-Sized-E-Commerce-Company)
