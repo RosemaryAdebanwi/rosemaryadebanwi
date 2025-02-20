@@ -12,7 +12,10 @@ I additionally possess extensive expertise in vulnerability management, includin
 
 With a strong background in governance, risk, and compliance (GRC), I am committed to enhancing risk management strategies and strengthening cybersecurity governance. My goal specifically is to drive compliance initiatives, improve internal controls, and support organizations in navigating complex regulatory landscapes while mitigating emerging risks.
 
-📜 **Frameworks:** **COBIT | NIST | ISO 27001 | GDPR | HIPAA | SOX | PCI DSS**
+📜 **Frameworks:** **NIST | ISO 27001 | COBIT | GDPR | HIPAA | SOX | PCI DSS | MITRE ATT&CK | CIS Controls**
+
+
+
 
 <h2>👨‍💻 GRC Projects:</h2>
 
