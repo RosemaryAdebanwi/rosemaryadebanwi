@@ -17,7 +17,7 @@ With a strong background in governance, risk, and compliance (GRC), I am committ
 
 
 
-<h2>👨‍💻 GRC Projects:</h2>
+<h2>👩🏽‍💻 GRC Projects:</h2>
 
 
   - [IT Governance Assessment](https://github.com/RosemaryAdebanwi/IT-Governance-Assessment)
