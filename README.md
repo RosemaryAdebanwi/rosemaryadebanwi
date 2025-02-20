@@ -67,7 +67,7 @@ With a strong background in governance, risk, and compliance (GRC), I am committ
 
 <h2>Certifications:</h2>
 
-<img src="https://img.shields.io/badge/-ISO%2FIEC_27001_(ISMS)-00558C?&style=for-the-badge&logo=Alison&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISO%2FIEC_27001_(ISMS)-00558C?&style=for-the-badge&logo=Alison&logoColor=white" alt="ISO/IEC 27001 (ISMS) Badge" />
 
 <h2>⚠️ Disclaimer:</h2>
 
