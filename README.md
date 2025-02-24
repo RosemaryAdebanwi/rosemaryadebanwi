@@ -53,7 +53,8 @@ With a strong background in governance, risk, and compliance (GRC), I am committ
 - GRC
 
 <div> 
-<img src="https://img.shields.io/badge/-RSA_Archer-00558C?&style=for-the-badge&logo=RSA&logoColor=white" /> <img src="https://img.shields.io/badge/-ServiceNow-4B0082?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
+<a href="https://www.archerirm.com" target="_blank"><img src="https://img.shields.io/badge/-RSA_Archer-00558C?&style=for-the-badge&logo=RSA&logoColor=white" /></a>
+<a href="https://www.servicenow.com" target="_blank"><img src="https://img.shields.io/badge/-ServiceNow-4B0082?&style=for-the-badge&logo=ServiceNow&logoColor=white" /></a>
   
 </div>
 
@@ -61,14 +62,18 @@ With a strong background in governance, risk, and compliance (GRC), I am committ
    
 - Vulnerability Management
   
-<img src="https://img.shields.io/badge/-Qualys-DC143C?&style=for-the-badge&logo=Qualys&logoColor=white" /> <img src="https://img.shields.io/badge/-Nessus-000000?&style=for-the-badge&logo=Nessus&logoColor=white" />
+<a href="https://www.qualys.com" target="_blank"><img src="https://img.shields.io/badge/-Qualys-DC143C?&style=for-the-badge&logo=Qualys&logoColor=white" /></a>
+<a href="https://www.tenable.com/products/nessus" target="_blank"><img src="https://img.shields.io/badge/-Nessus-000000?&style=for-the-badge&logo=Nessus&logoColor=white" /></a>
 
 
 
 <h2>Certifications:</h2>
 
+- Certified Information Systems Security Professional (CISSP)
+- GIAC Certified Incident Handler (GCIH) (Expected 12/25)
+- Certified in Risk and Information Systems Control (CRISC)
+- ISO/IEC 27001 – Dynamics of Information Security Management System (ISMS) | Alison (CPD Certified) (29th August 2024).
 
-<img src="https://img.shields.io/badge/-ISO%2FIEC_27001_(ISMS)-00558C?&style=for-the-badge&logo=Alison&logoColor=white" />
 
 
 
