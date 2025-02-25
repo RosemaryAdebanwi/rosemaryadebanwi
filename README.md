@@ -69,11 +69,21 @@ With a strong background in governance, risk, and compliance (GRC), I am committ
 
 <h2>Certifications:</h2>
 
-- Certified Information Systems Security Professional (CISSP)
-- GIAC Certified Incident Handler (GCIH) (Expected 12/25)
-- Certified in Risk and Information Systems Control (CRISC)
-- ISO/IEC 27001 – Dynamics of Information Security Management System (ISMS) | Alison (CPD Certified) (29th August 2024).
+- CRISC (Certified in Risk and Information Systems Control)
+- CISSP (Certified Information Systems Security Professional)
+- GCIH (in progress)
+- ISO/IEC 27001 (ISMS) | Alison (CPD Certified)
 
+<h2>Industry Credentials:</h2>
+
+- PwC – Certified in Phishing Simulation
+- TATA – Certified in Crafting Custom IAM Solutions
+- AIG – Certified in Bypassing Ransomware
+- ANZ – Certified in Social Engineering Investigation
+- Commonwealth Bank – Certified in Incident Response
+- DATACOM – Certified in APT Breach & Risk Assessment
+- Telstra – Certified in Responding to Malware Attacks
+- MasterCard – Certified in Designing & Interpreting Phishing Email Simulations
 
 
 
