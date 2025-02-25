@@ -15,6 +15,21 @@ With a strong background in governance, risk, and compliance (GRC), I am committ
 📜 **Frameworks:** **NIST | ISO 27001 | COBIT | GDPR | HIPAA | SOX | PCI DSS | MITRE ATT&CK | CIS Controls**
 
 
+<h2>Core Competencies:</h2>
+
+- Regulatory Compliance & Audit (SOX, PCI DSS, GDPR, HIPAA, ISO 27001)
+- Risk Assessment & Mitigation Strategies
+- IT & Cybersecurity Risk Management
+- Internal Controls & Process Improvement
+- Policy Development & Compliance Frameworks
+- Third-Party & Supply Chain Risk Management
+- Enterprise Risk Management (ERM)
+- Data Privacy & Protection
+- Incident Response & Business Continuity Planning (BCP/DRP)
+- Security Awareness & Training Programs
+- Vulnerability Management
+- Regulatory Reporting & Documentation
+- GRC Technology & Automation (Archer, ServiceNow)
 
 
 <h2>👩🏽‍💻 Experienced Deliverables:</h2>
@@ -73,6 +88,7 @@ With a strong background in governance, risk, and compliance (GRC), I am committ
 - CISSP (Certified Information Systems Security Professional)
 - GCIH (in progress)
 - ISO/IEC 27001 (ISMS) | Alison (CPD Certified)
+- Completion of Personalized Mentorship in GRC | Bugfreak Academy
 
 <h2>Industry Credentials:</h2>
 
