@@ -86,7 +86,7 @@ With a strong background in governance, risk, and compliance (GRC), I am committ
 
 - CRISC (Certified in Risk and Information Systems Control)
 - CISSP (Certified Information Systems Security Professional)
-- GCIH (in progress)
+- GCIH (GIAC Certified Incident Handler) (in progress)
 - ISO/IEC 27001 (ISMS) | Alison (CPD Certified)
 - Completion of Personalized Mentorship in GRC | Bugfreak Academy
 
