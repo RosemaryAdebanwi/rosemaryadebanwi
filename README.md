@@ -111,6 +111,9 @@ With a strong background in governance, risk, and compliance (GRC), I am committ
 
 *🚀Feel free to explore my repositories, contribute, or reach out for collaboration!🚀*
 
+Contact details:
+📧 rosemary.t.adebanwi@gmail.com 
+
 <!--
 
 
